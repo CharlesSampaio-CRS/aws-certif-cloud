@@ -546,4 +546,4 @@ Os [planos](https://aws.amazon.com/pt/premiumsupport/plans) de suporte da AWS es
 ### Simulados
 
 - [AWS Certified Cloud Practitioner - Exemplos de Perguntas](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
-- [AWS Certified Cloud Practitioner - Simulados em Português](https://www.udemy.com/course/aws-practitioner-em-portugues:target="_blank")
+- [AWS Certified Cloud Practitioner - Simulados em Português](https://www.udemy.com/course/aws-practitioner-em-portugues)
